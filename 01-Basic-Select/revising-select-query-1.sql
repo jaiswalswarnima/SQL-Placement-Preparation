@@ -1,0 +1,7 @@
+SELECT *
+FROM CITY
+WHERE COUNTRYCODE = 'USA'
+  AND DISTRICT = 'California'
+  AND POPULATION > 100000;
+
+-- Concepts: SELECT, WHERE, AND, comparison operators.
