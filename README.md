@@ -80,6 +80,9 @@ SQL-Placement-Preparation/
 - Select By ID
 - Japanese Cities' Attributes
 - Japanese Cities' Names
+- Employee Salaries
+- Employee Names
+- Higher Than 75 Marks
 
 ### Weather Observation Station
 
@@ -93,6 +96,7 @@ SQL-Placement-Preparation/
 - Station 9: Cities Not Starting with Vowels
 - Station 10: Cities Not Ending with Vowels
 - Station 11: Cities Not Both Starting and Ending with Vowels
+- Weather Observation Station 12
 
 ## Learning Approach
 
